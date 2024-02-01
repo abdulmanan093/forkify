@@ -1,6 +1,7 @@
 # Forkify Project
 
 Recipe application with custom recipe uploads.
+To view the project click here [forkify](https://forkify-mannan.netlify.app/).
 
 # Description
 
