@@ -3,6 +3,8 @@
 Recipe application with custom recipe uploads.\
 To view the project click here [forkify](https://forkify-mannan.netlify.app/).
 
+![image](https://github.com/abdulmanan093/forkify/assets/138243512/ff6ec7b1-dd07-4b46-8d3f-f425c24c1311)
+
 # Description
 
 The application provides the user with:
